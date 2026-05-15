@@ -1,0 +1,12 @@
+.vscode/
+*.code-workspace
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.log
+*.tmp
+temp/
+tmp/
+~$*.docx
+~$*.xlsx
+node_modules/
